@@ -1,2 +1,5 @@
-# Interim-Academics-Docket-for-Monitoring-Faculty-Schedule
-Faculty time-table will be fetched from portal and parsed into different files to determine the faculty free slots and meeting time.
+# Interim--Academics-Docket-for-Monitoring-Faculty-Schedule
+
+In this project, the University Faculty time-table will be stored into different files implemented using C as base language. At the point, when a specific time is entered by the user in console, the names of the faculty will be shown, i.e., the individuals who are free around that particular moment will be listed on the output console. User can enter specific faculty name additionally, to see the available time of that faculty which is finished via checking through the files. 
+
+The time-table of the faculty members will be stored in the files for each day, in order to check for the free slots when compared with another faculty member. The principle center of the project is to enable the students to get the chance to cooperate with their faculties on available time without reaching them specifically, which will free the burden from the faculty and students to organize distinctive timings for meet and help them to cooperate on available time directly. The interim catchphrase fundamentally depicts the intervening time and that is the reason we decided for our project name. Moreover, an command line interface giving an appropriate interface to the end-user utilizing terminal will be provided.
